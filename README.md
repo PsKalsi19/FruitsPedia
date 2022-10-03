@@ -1,5 +1,5 @@
 # FruitsPedia
-##This is mark 8  of neog camp for basic understanding of React.
+## This is mark 8  of neog camp for basic understanding of React.
 >Learnings:
 - React useState hook.
 - Sandbox environment.
